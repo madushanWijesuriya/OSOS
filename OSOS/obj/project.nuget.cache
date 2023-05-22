@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVTewqqx/Kwn2WA7R4xekOuof04yNtyDSGDCVM2o8DrJfUlQp6F/yFSOiweCOxiUz8ui2KMz4r9iLuoDXbPGHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\madushanWijesuriya\\Desktop\\interviews\\OSOS\\dotnet\\OSOS\\OSOS\\OSOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\nager.date\\1.42.0\\nager.date.1.42.0.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\madushanWijesuriya\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

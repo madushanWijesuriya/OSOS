@@ -1,0 +1,15 @@
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\OSOS.Services.deps.json
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\OSOS.Services.dll
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\ref\OSOS.Services.dll
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\OSOS.Services.pdb
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\OSOS.Models.dll
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\bin\Debug\net5.0\OSOS.Models.pdb
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.csproj.AssemblyReference.cache
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.AssemblyInfoInputs.cache
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.AssemblyInfo.cs
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.csproj.CoreCompileInputs.cache
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.csproj.CopyComplete
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.dll
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\ref\OSOS.Services.dll
+C:\Users\madushanWijesuriya\Desktop\interviews\OSOS\dotnet\OSOS\OSOS.Services\obj\Debug\net5.0\OSOS.Services.pdb
